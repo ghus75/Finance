@@ -7,6 +7,6 @@ Trying out different financial tools using data from French index CAC40
 - 5_CAC40_stat_arb : Statistical arbitrage experiments using eigen portfolios as market factors
 
 Credits: 
-EDHEC online course on Investment Management with Python
-"Statistical Arbitrage in the U.S. Equities Market" by Avellaneda & Lee (https://dx.doi.org/10.2139/ssrn.1153505)
+EDHEC online course on Investment Management with Python  
+"Statistical Arbitrage in the U.S. Equities Market" by Avellaneda & Lee (https://dx.doi.org/10.2139/ssrn.1153505)  
 Laloux et al. 2000 (https://math.nyu.edu/~avellane/LalouxPCA.pdf)
